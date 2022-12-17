@@ -1,0 +1,6 @@
+C:\Users\Ananth\source\repos\LibraryService\LibraryDB\bin\Debug\LibraryDB.dacpac
+C:\Users\Ananth\source\repos\LibraryService\LibraryDB\bin\Debug\LibraryDB.dll
+C:\Users\Ananth\source\repos\LibraryService\LibraryDB\bin\Debug\LibraryDB.pdb
+C:\Users\Ananth\source\repos\LibraryService\LibraryDB\obj\Debug\LibraryDB.sqlproj.AssemblyReference.cache
+C:\Users\Ananth\source\repos\LibraryService\LibraryDB\obj\Debug\LibraryDB.dll
+C:\Users\Ananth\source\repos\LibraryService\LibraryDB\obj\Debug\LibraryDB.pdb
